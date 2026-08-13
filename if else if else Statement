@@ -1,0 +1,15 @@
+<?php
+
+$score = 88;
+
+if ($score >= 90) {
+    echo "Excellent!";
+} elseif ($score >= 80) {
+    echo "Very Good!";
+} elseif ($score >= 75) {
+    echo "Good!";
+} else {
+    echo "Failed.";
+}
+
+?>
