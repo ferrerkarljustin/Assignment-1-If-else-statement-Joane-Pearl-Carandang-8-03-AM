@@ -9,3 +9,5 @@ if ($grade >= 75) {
 }
 
 ?>
+
+Output: You passed the exam.
