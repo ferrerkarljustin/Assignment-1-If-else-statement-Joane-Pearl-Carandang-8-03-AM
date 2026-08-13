@@ -7,3 +7,5 @@ if ($age >= 18) {
 }
 
 ?>
+
+Output: You are allowed to vote.
